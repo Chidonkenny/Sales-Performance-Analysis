@@ -223,6 +223,16 @@ sales-analysis-dashboard/
     └── themes/
         └── power-bi-theme.json
 
+## 📊 Project Outcome
+
+- This Power BI dashboard converts raw sales information into an interactive management reporting solution.
+- The dashboard enables stakeholders to quickly understand:
+     - Revenue → Profitability → Customers → Products → Regions → Trends
+
+The strongest visible revenue drivers are Consumer customers, the West/East regions, and high-performing technology/product sub-categories such as Phones.
+
+The project demonstrates practical skills in Power BI dashboard development, KPI design, data visualization, DAX, business analysis and storytelling with data.
+
 😄🫰
 
 
