@@ -9,6 +9,10 @@ This project presents an interactive Sales Analysis Dashboard built in Microsoft
 The dashboard is designed to measure overall sales and profitability, identify the strongest customer segments and geographic markets, understand sales trends, rank product sub-categories, and provide an interactive executive reporting
 experience.
 
+<img width="1180" height="666" alt="Sales Analysis Dashboard" src="https://github.com/user-attachments/assets/6e3de9c1-13aa-41de-95ac-2dfd9ce3066e" />
+
+<img width="1599" height="850" alt="Screenshot 2026-08-18 032039" src="https://github.com/user-attachments/assets/f1a0f6c6-818e-43bf-8df3-34b12d6172e4" />
+
 ## Data Source
 
 - Sales Data format ".xlsx" file, containing detailed information about the sales made.
