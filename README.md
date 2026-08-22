@@ -210,12 +210,9 @@ sales-analysis-dashboard/
     │
     ├── dashboard/
     │   └── Sales_Analysis.pbix
-    │
-    ├── screenshots/
     │   └── sales-analysis-dashboard.png
-    │
-    ├── data/
-    │   └── sales-data.csv
+    │   └── sales-data.xlsx
+    ├   
     │
     ├── documentation/
     │   └── business-insights.md
