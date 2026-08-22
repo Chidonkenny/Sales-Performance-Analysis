@@ -208,7 +208,7 @@ sales-analysis-dashboard/
     │
     ├── README.md
     │
-    ├── dashboard/
+    ├── /Sales Analysis/ dataset/ dashboard/ 
     │   └── Sales_Analysis.pbix
     │   └── sales-analysis-dashboard.png
     │   └── sales-data.xlsx
