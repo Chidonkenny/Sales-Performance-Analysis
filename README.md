@@ -201,7 +201,7 @@ Bottom line: Focus on high-margin products + larger customer orders + less unnec
 
 
 
-## 📁 Suggested GitHub Repository Structure
+## 📁 Repository Structure
 
 sales-analysis-dashboard/
 
